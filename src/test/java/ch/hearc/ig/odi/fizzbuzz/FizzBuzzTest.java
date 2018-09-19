@@ -1,4 +1,4 @@
-package ch.hearc.ig.odi;
+package ch.hearc.ig.odi.fizzbuzz;
 
 import ch.hearc.ig.odi.fizzbuzz.business.Fizzbuzz;
 import org.junit.Assert;
